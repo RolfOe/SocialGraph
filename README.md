@@ -1,2 +1,2 @@
 # SocialGraph
-a plae to post excercies and assignments from at techinal course
+a place to do exercises and assignments from at techinal course
